@@ -1,0 +1,23 @@
+{
+  "name": "optimizeimages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "INPUT=test/input/ OUTPUT=test/output/ node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexjamesmalcolm/OptimizeImages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexjamesmalcolm/OptimizeImages/issues"
+  },
+  "homepage": "https://github.com/alexjamesmalcolm/OptimizeImages#readme",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "webp-converter": "^2.2.3"
+  }
+}
