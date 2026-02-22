@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/alexjamesmalcolm/OptimizeImages#readme",
   "dependencies": {
-    "glob": "^7.1.6",
+    "glob": "^13.0.6",
     "webp-converter": "^2.2.3"
   }
 }
